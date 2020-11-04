@@ -29,7 +29,7 @@ tag:
 
 category:
   title: 分类
-  subtitle: 分类
+  subtitle: 小分类
 
 about:
   title: 关于
@@ -42,3 +42,4 @@ page404:
 links:
   title: 友链
   subtitle: 友情链接
+

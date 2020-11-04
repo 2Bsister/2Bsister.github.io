@@ -289,7 +289,7 @@ navbar:
     - { key: "category", link: "/categories/", icon: "iconfont icon-category-fill" }
     - { key: "tag", link: "/tags/", icon: "iconfont icon-tags-fill" }
     - { key: "about", link: "/about/", icon: "iconfont icon-user-fill" }
-    - { key: "PS游戏", link: "/about/", icon: "iconfont icon-xbox-fill" }
+    - { key: "PS游戏", link: "/about/", icon: "iconfont icon-playstation-fill" }
     #- { key: "links", link: "/links/", icon: "iconfont icon-link-fill" }
    
 
